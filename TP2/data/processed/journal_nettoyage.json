@@ -1,0 +1,16 @@
+{
+  "lignes_initiales": 17609,
+  "prix_manquants_avant": 0,
+  "prix_manquants_apres": 0,
+  "canal_modifications": 3560,
+  "statut_modifications": 0,
+  "ville_livraison_modifications": 15544,
+  "doublons_supprimes": 240,
+  "lignes_sans_date_supprimees": 347,
+  "remises_remplacees_par_zero": 1874,
+  "quantites_negatives_supprimees": 30,
+  "quantites_plafonnees": 0,
+  "montants_calcules": 16992,
+  "doublons_apres_nettoyage": 0,
+  "lignes_finales": 16992
+}
