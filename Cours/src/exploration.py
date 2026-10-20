@@ -1,3 +1,4 @@
+import pandas as pd
 def profile_dataframe(df, name='jeu de données', max_cardinality=25):
     """Affiche un rapport d'exploration standard.
 
